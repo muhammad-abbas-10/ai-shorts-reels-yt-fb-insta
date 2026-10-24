@@ -1,0 +1,9 @@
+{
+  "name": "shorts-studio-backend",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node dev.mjs"
+  }
+}
